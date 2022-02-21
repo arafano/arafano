@@ -1,4 +1,4 @@
-### Hi there, this Ando ! 👋
+### Hi there, this is Ando ! 👋
 
 <!--
 **arafano/arafano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
