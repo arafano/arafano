@@ -27,4 +27,4 @@ IT programming, data science to contribute and realise different projects.
 
 ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
 
-📫 How to reach me: you can search my name on google and you will find me on Linkedin 😄⚡ (funny)
+📫 How to reach me: you can search my name on google and you will find me on LinkedIn 😄⚡ (funny)
