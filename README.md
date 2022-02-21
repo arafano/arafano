@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Ando RAFANOMEZANTSOA and actually I am  a student at EPSI (IT school engineering) because I am passionate by programming and DEVOPS too and
+My name is Ando RAFANOMEZANTSOA and actually I am  a student at EPSI Nantes (IT school engineering) because I am passionate by programming and DEVOPS too and
 I want to perform my skills in theses domains and others IT domains too. I had a master degrees in physics especially Photonics Signal Imaging at the University of Angers,
 so my goal in the future is to use my skills in differents domains such as imaging, artificial intelligence, devops, software engineering,
 it programming, data science to contribute in different projects.
